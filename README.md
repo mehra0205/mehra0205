@@ -118,20 +118,6 @@ healthcare services.
 
 ---
 
-# 📊 GitHub Stats
-
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehra0205&show_icons=true&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mehra0205&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![Rohan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehra0205&theme=tokyo-night)
-
----
-
 # 🤝 Let's Connect
 
 💼 [LinkedIn](YOUR_LINKEDIN_URL)
