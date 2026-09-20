@@ -120,11 +120,11 @@ healthcare services.
 
 # 🤝 Let's Connect
 
-💼 [LinkedIn](YOUR_LINKEDIN_URL)
+💼 [LinkedIn](https://www.linkedin.com/in/rohan-mehra-8818b4266/)
 
 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
 
-📧 YOUR_EMAIL
+📧 m.rohan8907@gmail.com
 
 ---
 
